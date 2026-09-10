@@ -40,7 +40,7 @@ apt install nano -y
 4. CLONE THE REPOSITORY
 -----------------------
 
-git clone https://github.com/xzydip/xzy
+git clone https://github.com/xzydip/xzy1
 
 cd xzy
 
